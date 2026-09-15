@@ -1,0 +1,14 @@
+C:\Users\derrj\DataMahasiswa\bin\Debug\net10.0\DataMahasiswa.exe
+C:\Users\derrj\DataMahasiswa\bin\Debug\net10.0\DataMahasiswa.deps.json
+C:\Users\derrj\DataMahasiswa\bin\Debug\net10.0\DataMahasiswa.runtimeconfig.json
+C:\Users\derrj\DataMahasiswa\bin\Debug\net10.0\DataMahasiswa.dll
+C:\Users\derrj\DataMahasiswa\bin\Debug\net10.0\DataMahasiswa.pdb
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.AssemblyInfoInputs.cache
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.AssemblyInfo.cs
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.dll
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\refint\DataMahasiswa.dll
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.pdb
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\DataMahasiswa.genruntimeconfig.cache
+C:\Users\derrj\DataMahasiswa\obj\Debug\net10.0\ref\DataMahasiswa.dll
