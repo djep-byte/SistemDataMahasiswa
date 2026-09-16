@@ -1,0 +1,14 @@
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.AssemblyInfoInputs.cache
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.AssemblyInfo.cs
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.csproj.CoreCompileInputs.cache
+C:\Users\derrj\DataMahasiswaUI\bin\Debug\net10.0-windows\DataMahasiswaUI.exe
+C:\Users\derrj\DataMahasiswaUI\bin\Debug\net10.0-windows\DataMahasiswaUI.deps.json
+C:\Users\derrj\DataMahasiswaUI\bin\Debug\net10.0-windows\DataMahasiswaUI.runtimeconfig.json
+C:\Users\derrj\DataMahasiswaUI\bin\Debug\net10.0-windows\DataMahasiswaUI.dll
+C:\Users\derrj\DataMahasiswaUI\bin\Debug\net10.0-windows\DataMahasiswaUI.pdb
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.dll
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\refint\DataMahasiswaUI.dll
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.pdb
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\DataMahasiswaUI.genruntimeconfig.cache
+C:\Users\derrj\DataMahasiswaUI\obj\Debug\net10.0-windows\ref\DataMahasiswaUI.dll
