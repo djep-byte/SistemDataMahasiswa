@@ -598,3 +598,4 @@ Lalu run dengan code berikut
 dotnet run
 ```
 ### Tampilan Run
+![Tampilan UI](./DataMahasiswaUI/Screenshot%202026-09-16%20143524.png)
